@@ -1,0 +1,1 @@
+# sarif-file-conventions
